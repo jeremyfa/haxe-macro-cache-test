@@ -1,0 +1,1 @@
+# haxe-macro-cache-test
