@@ -1,0 +1,7 @@
+-main Main
+-cp src
+-cpp bin
+--times
+-D macro-times
+-D eval-times
+-cmd bin/Main
